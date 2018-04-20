@@ -1,8 +1,6 @@
-# memen10.github.io
-my website
-
+## my website
 [memen10.github.io](https://memen10.github.io/?)
 
 
-### License
+#### License
 The code is available under the MIT license.
