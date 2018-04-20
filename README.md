@@ -1,4 +1,8 @@
 # memen10.github.io
 my website
 
-[memen10.github.io](https://memen10.github.io/index.html)
+[memen10.github.io](https://memen10.github.io/?)
+
+
+### License
+The code is available under the MIT license.
