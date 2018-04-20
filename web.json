@@ -1,5 +1,5 @@
 {
-  "greeting_text": "こにゃにゃちわ",
+  "greeting_text": "しいたけです",
   "background": "#171928",
   "foreground": "#c7b7c7",
   "search_engine": "https://www.google.co.id/search?q=",
@@ -10,7 +10,7 @@
     },
     {
       "key": ":tt",
-      "url": "http://twitter.com"
+      "url": "http://twitter.com/diyosko7"
     },
     {
       "key": ":ig",
